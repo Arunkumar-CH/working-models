@@ -1,5 +1,5 @@
 Gender,Married,ApplicantIncome,LoanAmount,Loan_Status
-Male,Yes,4583,128000.0,N
+Male,Yes,4583,128001.0,N
 Male,Yes,3000,66000.0,Y
 Male,Yes,2583,120000.0,Y
 Male,No,6000,141000.0,Y
