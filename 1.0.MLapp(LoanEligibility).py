@@ -43,7 +43,7 @@ def prediction(Gender, Married, ApplicantIncome, LoanAmount):
     else:
         Married = 0
 
-    # 3. Building the model to automate Loan Eligibility 
+    #3. Building the model to automate Loan Eligibility 
 
     # if (ApplicantIncome >= 50000):
     #     loan_status = 'Approved'
